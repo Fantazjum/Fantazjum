@@ -1,6 +1,5 @@
 /*
 Podstawowy element struktury: signed int [ 32 bit (4 bajty) ]
-Zrezygnowalem z wczesniejszego niezaimplementowanego polimorfizmu po uswiadomieniu sobie jak bardzo beda sie roznic funkcje struktur i ile castowania mnie czeka
 Pozostale struktury sa wynikiem
 */
 #define KOPIEC 20		//wartosc stala dodawana do tablicy kopcowej
