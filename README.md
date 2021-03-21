@@ -1,4 +1,6 @@
-### Hi there 👋
+### Aleksy Śliżewski
+## Student of Information Technology at Wrocław University of Science and Technology
+# For non-repeating projects and codes look at self-titled repository
 
 <!--
 **Fantazjum/Fantazjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
