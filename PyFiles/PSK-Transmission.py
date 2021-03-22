@@ -1,4 +1,4 @@
-#Made with collaboration with Paweł Pastusiak and 
+#Made with collaboration with Paweł Pastusiak and Łukasz Piekarek
 import math
 import random
 import matplotlib.pyplot as plt
