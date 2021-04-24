@@ -1,5 +1,5 @@
 # Aleksy Śliżewski
-## Student of Information Technology at Wrocław University of Science and Technology
+## Student of Computer Science at Wrocław University of Science and Technology
 ---
 ### For non-repeating projects and code look at self-titled repository
 
