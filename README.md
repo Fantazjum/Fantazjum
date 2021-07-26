@@ -3,7 +3,7 @@
 ---
 ### For non-repeating projects and code look at self-titled repository
 
-### For apps using Github Pages look into 'Programowanie-Interfejsow-Webowych' repository
+### For web apps visit [this link](https://fantazjum.github.io/Web-Interfaces/)
 
 <!--
 **Fantazjum/Fantazjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
